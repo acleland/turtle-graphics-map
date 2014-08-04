@@ -72,7 +72,7 @@ class Map():
 
         # Draw cities
         for cityname in self.cities:
-            # Save city from cities dictionary
+            # Load city from cities dictionary
             city = self.cities[cityname]
             # Lift pen, go to location of city
             penup()
