@@ -1,5 +1,6 @@
 # Copyright 2014 Andrew Cleland
 # Map drawing using turtle graphics
+# Reads data from a csv file to generate a map.
 
 # Import necessary packages
 import sys
